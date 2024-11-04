@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p46702-e216854.adobeaemcloud.com/bin/franklin.delivery/sagarm-cm/edge-delivery-services/main"
+    url: "https://author-p46702-e216854.adobeaemcloud.com/bin/franklin.delivery/sagarm-cm/edge-delivery-services-xwalk/main"
     type: "markup"
     suffix: ".html"
